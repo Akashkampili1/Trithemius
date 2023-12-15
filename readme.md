@@ -7,7 +7,7 @@
 
 This Python script provides a comprehensive Steganographic Framework with AES-256 Encryption. The framework supports hiding information within various media types such as text, images, audio, and videos. It employs the AES-256 encryption algorithm to secure the hidden data.
 
-![](trithemius.png)
+![Phoenix Steganography Framework](trithemius.png)
 
 ## Features
 
