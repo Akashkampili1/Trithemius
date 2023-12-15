@@ -1,0 +1,5 @@
+pyaes==1.6.1
+stegano==0.11.2
+Pillow==10.1.0
+numpy==1.26.2
+opencv-python==4.8.1.78
