@@ -14,6 +14,38 @@ This Python script provides a comprehensive Steganographic Framework with AES-25
 - Audio Steganography
 - Video Steganography
 
+## Getting Started
+
+### Prerequisites
+
+- Python 3.x
+- Required Python packages (install using `pip install -r requirements.txt`):
+  - PIL (Pillow)
+  - stegano
+  - pyaes
+  - opencv-python
+  - numpy
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Akashkampili1/TrithemiusCli
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd TrithemiusCli
+   ```
+
+3. Install the required dependencies:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
 ## Requirements
 
 Make sure to install the required dependencies by running:
