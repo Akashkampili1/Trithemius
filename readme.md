@@ -1,4 +1,4 @@
-# Steganographic Framework with AES-256 Encryption
+# Trithemius - Steganographic Framework with AES-256 Encryption
 
 ![Team Phoenix](https://img.shields.io/badge/Created%20by-Team%20Phoenix-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
